@@ -1379,8 +1379,8 @@ export default function Home() {
                 ))}
 
                 <a
-                  href="/Devang-Gandhi-Resume.txt"
-                  download="Devang-Gandhi-Resume.txt"
+                  href="/CV.pdf"
+                  download="Devang-Gandhi-Resume.pdf"
                   className="group p-4 rounded-xl border border-border/60 bg-background/30 backdrop-blur card-hover"
                 >
                   <div className="space-y-2">
